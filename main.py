@@ -1,5 +1,7 @@
 
 def main(msg):
+    //Another comment
+    //Another one
 <<<<<<< HEAD
     //Adding a different comment
 =======
